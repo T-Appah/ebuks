@@ -1,0 +1,15 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.items{
+    border: 2px solid #cbc6c6;
+    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+    background: url(../img/angel_wings.jpg);
+    background-size: cover;
+}
+
